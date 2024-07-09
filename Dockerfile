@@ -27,6 +27,7 @@ COPY tracker.db .
 CMD ["./main"]
 
 
+
 ## Uncomment to use One-Stage Build
 # Basic One-Stage [image size 1.28 GB]
 
